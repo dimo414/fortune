@@ -1,0 +1,10 @@
+[package]
+name = "fortune"
+description = "Tip-of-the-day tool in the style of Unix's fortune"
+license = "MIT"
+version = "0.2.0"
+edition = "2021"
+authors = ["Michael Diamond <dimo414@gmail.com>"]
+repository = "https://github.com/dimo414/fortune"
+
+[dependencies]
